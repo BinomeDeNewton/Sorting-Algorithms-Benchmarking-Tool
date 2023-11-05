@@ -15,7 +15,7 @@ This Python project provides an implementation of various sorting algorithms suc
    - Ensure Python is installed.
 
 2. **Execution:**
-   - Run the `main.py` file.
+   - Run the `Sorting_Algorithms.py` file.
    - The graphical interface window will open.
 
 3. **Algorithm Comparison:**
